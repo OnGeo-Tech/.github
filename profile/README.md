@@ -17,9 +17,9 @@ OnGeo combines GIS expertise, geospatial technology and property data analysis t
 
 | Website | Link |
 | --- | --- |
-| OnGeo Poland | [ongeo.pl](https://ongeo.pl) |
 | OnGeo United States | [ongeo.us](https://ongeo.us) |
-| OnGeo | [ongeo.com](https://ongeo.com) |
+| OnGeo Poland | [ongeo.pl](https://ongeo.pl) |
+| OnGeo Global | [ongeo.com](https://ongeo.com) |
 
 Learn more [about OnGeo](https://ongeo.us/about-us).
 
