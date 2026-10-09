@@ -20,8 +20,8 @@ Our approach combines global geospatial expertise with local data and regional c
 
 | Platform / product | Focus | Link |
 | --- | --- | --- |
-| OnGeo United States | Property intelligence for the U.S. market | [ongeo.us](https://ongeo.us) |
-| OnGeo Poland | Property and land insights for Poland | [ongeo.pl](https://ongeo.pl) |
+| OnGeo United States | OnGeo Property Report | Land - Parcel - Property insights for for the U.S. market | [ongeo.us](https://ongeo.us) |
+| OnGeo Poland | Land - Parcel - Property insights for Poland market | [ongeo.pl](https://ongeo.pl) |
 | OnGeo | Geospatial products and services | [ongeo.com](https://ongeo.com) |
 | OnGeo Intelligence (OGI) | Our satellite imagery product: location-based imagery reports | [ongeo-intelligence.com](https://ongeo-intelligence.com/) |
 
